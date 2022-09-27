@@ -7,4 +7,6 @@ The [fetch_data.py](https://github.com/jubaer-ad/restaurant_recommendation/blob/
 The [restaurant_recommendation.ipynb](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/restaurant_recommendation.ipynb) file is used to train LogisticRegression model based on data I scraped before and used pickle to save the model ([restaurant_lr_model.pkl](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/restaurant_lr_model.pkl)) for later use.
 ## API
 The [restaurant_api.py](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/restaurant_api.py) file is used to create an API to interact with the model and get restaurant remmendation. Follow this [link](https://documenter.getpostman.com/view/23040426/2s83f2pbB4) for API documentation.
+
+I used uvicorn to run the server to test the API.
  
