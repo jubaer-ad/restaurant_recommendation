@@ -8,5 +8,5 @@ The [restaurant_recommendation.ipynb](https://github.com/jubaer-ad/restaurant_re
 ## API
 The [restaurant_api.py](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/restaurant_api.py) file is used to create an API to interact with the model and get restaurant remmendation. Follow this [link](https://documenter.getpostman.com/view/23040426/2s83f2pbB4) for API documentation.
 
-I used uvicorn to run the server to test the API.
+I used uvicorn to run the server to test API.
  
