@@ -7,13 +7,17 @@ The [fetch_data.py](https://github.com/jubaer-ad/restaurant_recommendation/blob/
 
 ## Model training
 The [restaurant_recommendation.ipynb](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/restaurant_recommendation.ipynb) file is used to train LogisticRegression model based on data I scraped before and used pickle to save the model ([restaurant_lr_model.pkl](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/restaurant_lr_model.pkl)) for later use.
+
 Top food items (by price) at Madchef
+
 ![top madchef](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/top_madchef.png)
 
 Top food items (by price) at PizzaHutBD
+
 ![Top pizzahutbd](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/top_pizzahut_bd.png)
 
 Confusion Matrix
+
 ![confusion_matrix](https://github.com/jubaer-ad/restaurant_recommendation/blob/main/confusion_matrix.png)
 
 ## API
